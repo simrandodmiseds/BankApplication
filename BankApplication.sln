@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBank", "TestBank\TestBank.csproj", "{8B12F528-A8C3-475B-8A44-8C26CCE38C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBankClient", "TestBankClient\TestBankClient.csproj", "{19FD8D6F-991E-440E-89FA-ECB92C1DC312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B12F528-A8C3-475B-8A44-8C26CCE38C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B12F528-A8C3-475B-8A44-8C26CCE38C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B12F528-A8C3-475B-8A44-8C26CCE38C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B12F528-A8C3-475B-8A44-8C26CCE38C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FD8D6F-991E-440E-89FA-ECB92C1DC312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FD8D6F-991E-440E-89FA-ECB92C1DC312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FD8D6F-991E-440E-89FA-ECB92C1DC312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FD8D6F-991E-440E-89FA-ECB92C1DC312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD9592C-7154-4F9A-A1FC-67A671259CE4}
+	EndGlobalSection
+EndGlobal
